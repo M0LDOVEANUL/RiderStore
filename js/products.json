@@ -1,0 +1,286 @@
+{
+  "products": [
+    {
+        "id":"1",
+        "producator":"Yamaha",
+        "name":"Yamaha XSR700",
+        "price":"9000",
+        "img1":"img/img produse/YAMAHA XSR700 1.png",
+        "img2":"img/img produse/YAMAHA XSR700 2.png",
+        "img3":"img/img produse/YAMAHA XSR700 3.png",
+        "img4":"img/img produse/YAMAHA XSR700 4.png"
+    },
+    {
+        "id":"1",
+        "producator":"Yamaha",
+        "name":"MT-125 ABS",
+        "price":"6000",
+        "img1":"img/img produse/MT-125 ABS 1.png",
+        "img2":"img/img produse/MT-125 ABS 2.png",
+        "img3":"img/img produse/MT-125 ABS 3.png",
+        "img4":"img/img produse/MT-125 ABS 4.png"
+    },
+    {
+        "id":"1",
+        "producator":"Honda",
+        "name":" Honda REBEL 1100",
+        "price":"12500",
+        "img1":"img/img produse/Honda REBEL 1100 1.png"
+    },
+    {
+        "id":"1",
+        "producator":"Ktm",
+        "name":" KTM 390 DUKE 22",
+        "price":"6200",
+        "img1":"img/img produse/KTM 390 DUKE 22 1.png"
+    },
+    {
+        "id":"1",
+        "producator":"Honda",
+        "name":" Honda CB 650 R",
+        "price":"9000",
+        "img1":"img/img produse/Honda CB 650 R 1.png",
+        "img2":"img/img produse/Honda CB 650 R 2.png",
+        "img3":"img/img produse/Honda CB 650 R 3.png",
+        "img4":"img/img produse/Honda CB 650 R 4.png"
+    },
+    {
+        "id":"1",
+        "producator":"Geon",
+        "name":"GEON UNIT S 200",
+        "price":"1400",
+        "img1":"img/img produse/GEON UNIT S 200 1.png",
+        "img2":"img/img produse/GEON UNIT S 200 2.png",
+        "img3":"img/img produse/GEON UNIT S 200 3.png",
+        "img4":"img/img produse/GEON UNIT S 200 4.png"
+    },
+    {
+        "id":"1",
+        "producator":"CFMOTO",
+        "name":"CFMOTO 800MT Touring",
+        "price":"11500",
+        "img1":"img/img produse/CFMOTO 800MT Touring 1.png",
+        "img2":"img/img produse/CFMOTO 800MT Touring 2.png"
+    },
+    {
+        "id":"1",
+        "producator":"Yamaha",
+        "name":"R1 World GP 60th Anniversary",
+        "price":"25000",
+        "img1":"img/img produse/R1 World GP 60th Anniversary 1.png"
+    },
+    {
+        "id":"1",
+        "producator":"Husqvarna",
+        "name":"Husqvarna Vitpilen 401 22",
+        "price":"5500",
+        "img1":"img/img produse/Husqvarna Vitpilen 401 22 1.png",
+        "img2":"img/img produse/Husqvarna Vitpilen 401 22 2.png",
+        "img3":"img/img produse/Husqvarna Vitpilen 401 22 3.png",
+        "img4":"img/img produse/Husqvarna Vitpilen 401 22 4.png"
+    },
+    {
+        "id":"2",
+        "producator":"Can-Am",
+        "name":"OUTLANDER MAX DPS 450 T MY22",
+        "price":"10000",
+        "img1":"img/img produse/OUTLANDER MAX DPS 450 T MY22 1.png",
+        "img2":"img/img produse/OUTLANDER MAX DPS 450 T MY22 2.png",
+        "img3":"img/img produse/OUTLANDER MAX DPS 450 T MY22 3.png",
+        "img4":"img/img produse/OUTLANDER MAX DPS 450 T MY22 4.png"
+    },
+    {
+        "id":"2",
+        "producator":"Can-Am",
+        "name":"OUTLANDER STD T 450 MY22",
+        "price":"8000",
+        "img1":"img/img produse/OUTLANDER STD T 450 MY22 1.png",
+        "img2":"img/img produse/OUTLANDER STD T 450 MY22 2.png",
+        "img3":"img/img produse/OUTLANDER STD T 450 MY22 3.png",
+        "img4":"img/img produse/OUTLANDER STD T 450 MY22 4.png"
+    },
+    {
+        "id":"2",
+        "producator":"Can-Am",
+        "name":"YFM 700R SE 1",
+        "price":"5200",
+        "img1":"img/img produse/YFM 700R SE 1.png"
+    },
+    {
+        "id":"2",
+        "producator":"Geon",
+        "name":"OUTLANDER STD T 450 MY22",
+        "price":"2000",
+        "img1":"img/img produse/ATV GEON COMMANDER 200 1.png",
+        "img2":"img/img produse/ATV GEON COMMANDER 200 2.png",
+        "img3":"img/img produse/ATV GEON COMMANDER 200 3.png",
+        "img4":"img/img produse/ATV GEON COMMANDER 200 4.png"
+    },
+    {
+        "id":"3",
+        "producator":"GasGas",
+        "name":"GASGAS MC 450F TROY LEE DESIGNS",
+        "price":"13000",
+        "img1":"img/img produse/GASGAS MC 450F TROY LEE DESIGNS 1.png",
+        "img2":"img/img produse/GASGAS MC 450F TROY LEE DESIGNS 2.png",
+        "img3":"img/img produse/GASGAS MC 450F TROY LEE DESIGNS 3.png",
+        "img4":"img/img produse/GASGAS MC 450F TROY LEE DESIGNS 4.png"
+    },
+    {
+        "id":"3",
+        "producator":"Beta",
+        "name":"Beta X-Trainer 300 MY23",
+        "price":"7000 $",
+        "img1":"img/img produse/Beta X-Trainer 300 MY23 1.png",
+        "img2":"img/img produse/Beta X-Trainer 300 MY23 2.png"
+    },
+    {
+        "id":"3",
+        "producator":"Ktm",
+        "name":"KTM SX-E 5 22",
+        "price":"5000 $",
+        "img1":"img/img produse/KTM SX-E 5 22 1.png"
+    },
+    {
+        "id":"3",
+        "producator":"Geon",
+        "name":"GEON X-Road 250 CBB",
+        "price":"2000 $",
+        "img1":"img/img produse/GEON X-Road 250 CBB 1.png"
+    },
+    {
+        "id":"3",
+        "producator":"Geon",
+        "name":"GEON TERRAX 250 CB (1916) PRO",
+        "price":"2500 $",
+        "img1":"img/img produse/GEON TERRAX 250 CB (1916) PRO 1.png"
+    },
+    {
+        "id":"4",
+        "producator":"SHOEI",
+        "name":"SHOEI Neotec II (Silver)",
+        "price":"600",
+        "img1":"img/img produse/SHOEI Neotec II (Silver) 1.png",
+        "img2":"img/img produse/SHOEI Neotec II (Silver) 2.png",
+        "img3":"img/img produse/SHOEI Neotec II (Silver) 3.png",
+        "img4":"img/img produse/SHOEI Neotec II (Silver) 4.png"
+    },
+    {
+        "id":"4",
+        "producator":"Nolan",
+        "name":"Nolan N104 ABSOLUTE Tech N-Com 27",
+        "price":"400",
+        "img1":"img/img produse/Nolan N104 ABSOLUTE Tech N-Com 27 1.png"
+    },
+    {
+        "id":"4",
+        "producator":"Nordcap",
+        "name":"Geacă Nordcap Adventure - Black",
+        "price":"270",
+        "img1":"img/img produse/Geacă Nordcap Adventure - Black 1.png",
+        "img2":"img/img produse/Geacă Nordcap Adventure - Black 2.png",
+        "img3":"img/img produse/Geacă Nordcap Adventure - Black 3.png",
+        "img4":"img/img produse/Geacă Nordcap Adventure - Black 4.png"
+    },
+    {
+        "id":"4",
+        "producator":"Oxford",
+        "name":"Oxford Tracker Boot",
+        "price":"150",
+        "img1":"img/img produse/Oxford Tracker Boot 1.png",
+        "img2":"img/img produse/Oxford Tracker Boot 2.png",
+        "img3":"img/img produse/Oxford Tracker Boot 3.png"
+    },
+    {
+        "id":"4",
+        "producator":"Oxford",
+        "name":"V1 FALCON ECE REDWHITE",
+        "price":"170",
+        "img1":"img/img produse/V1 FALCON ECE REDWHITE 1.png"
+ 
+    },
+    {
+        "id":"5",
+        "producator":"MOTUL",
+        "name":"MOTUL 7100 4T 20W-50 1L",
+        "price":"15",
+        "img1":"img/img produse/MOTUL 7100 4T 20W-50 1L 1.png"
+    },
+    {
+        "id":"5",
+        "producator":"Can-Am",
+        "name":"Curea Variator Can-Am (BRP)",
+        "price":"15",
+        "img1":"img/img produse/Curea Variator Can-Am (BRP) 1.png"
+        
+    },
+    {
+        "id":"5",
+        "producator":"D.I.D",
+        "name":"D.I.D. Chain Kit HONDA CB600 HORNET -'06 1",
+        "price":"145",
+        "img1":"img/img produse/D.I.D. Chain Kit HONDA CB600 HORNET -'06 1.png"
+        
+    },
+    {
+        "id":"5",
+        "producator":"D.I.D",
+        "name":"NGK BPMR7A",
+        "price":"3",
+        "img1":"img/img produse/NGK BPMR7A 1.png"
+    },
+    {
+        "id":"5",
+        "producator":"DYNOVOLT",
+        "name":"DYNAVOLT DTX9-BS",
+        "price":"35",
+        "img1":"img/img produse/DYNAVOLT DTX9-BS 1.png"
+        
+    },
+    {
+        "id":"5",
+        "producator":"MOTUL",
+        "name":"MOTUL 300V 4T 10W40 4L",
+        "price":"70",
+        "img1":"img/img produse/MOTUL 300V 4T 10W40 4L 1.png"
+    },
+    {
+        "id":"6",
+        "producator":"Can-Am",
+        "name":"RJWS Can-Am Outlander",
+        "price":"50",
+        "img1":"img/img produse/RJWS Can-Am Outlander 1.png"
+    },
+    {
+        "id":"6",
+        "producator":"Can-Am",
+        "name":"Cutie portbagaj 738",
+        "price":"50",
+        "img1":"img/img produse/Cutie portbagaj 738 1.png"
+    },
+    {
+        "id":"6",
+        "producator":"Oxford",
+        "name":"Curele de fixare a motocicletei Oxford",
+        "price":"50",
+        "img1":"img/img produse/Curele de fixare a motocicletei Oxford 1.png",
+        "img2":"img/img produse/Curele de fixare a motocicletei Oxford 2.png"
+    },
+    {
+        "id":"6",
+        "producator":"Oxford",
+        "name":"Sistem antifurt-alarmă (cu fixare pe disc)",
+        "price":"40",
+        "img1":"img/img produse/Sistem antifurt-alarmă (cu fixare pe disc) 1.png"
+    },
+    {
+        "id":"6",
+        "producator":"Sena",
+        "name":"SENA 50C Bluetooth Garnitură",
+        "price":"55",
+        "img1":"img/img produse/SENA 50C Bluetooth Garnitură 1.png",
+        "img2":"img/img produse/SENA 50C Bluetooth Garnitură 2.png",
+        "img3":"img/img produse/SENA 50C Bluetooth Garnitură 3.png"
+    }
+]
+}
